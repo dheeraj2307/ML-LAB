@@ -1,3 +1,3 @@
-# hello-world
+# ML LAB
 
-Name: P Sai Dheeraj
+This repository contains all my lab tasks of Machine Learning Fundamentals Lab
